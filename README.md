@@ -5,7 +5,7 @@
 ## Importing
 
 ```js
-import Websocket from 'react-websocket';
+import Header from 'react-header';
 ```
 
 ## Usage
